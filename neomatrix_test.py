@@ -1,4 +1,5 @@
 # Based on code from Andy Piper: https://github.com/andypiper/fivebyfive/blob/main/micropython/main.py
+# This script is for CircuitPython, and requires you have the Adafruit neopixel library installed.
 import board
 from neopixel import NeoPixel
 import random
